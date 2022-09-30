@@ -4,6 +4,7 @@
 
 Название проекта | Описание | Используемые библиотеки
 ------ | ------|----------
+[Проект по подготовке гипотез и анализу A\B-теста для крупного интернет-магазина.](https://github.com/Yourius/Projects_Ya/tree/main/AB_test_M_W)| Цель - увеличение выручки|_pandas, seaborn, matplotlib, numpy, scipy, pylab_
 [Проект анализа данных и расчета маркетинговых показателей развлекательного приложения.](https://github.com/Yourius/Projects_Ya/tree/main/fun_application)| Цель - оптимизация расходов на привлечение пользователей с учетом региональной специфики | _pandas, seaborn, matplotlib, datetime, numpy_
 [Проект для глобального игрового интернет-магазина](https://github.com/Yourius/Projects_Ya/tree/main/online_games)|Цель - создание прогноза продаж на следующий год и составления портрета пользователя.|_pandas, matplotlib, seaborn, numpy, math, stats, plotly.express_
 [Проект по изучению портрета клиентов банка и выявления критериев, влияющих на погашение кредитов в срок.](https://github.com/Yourius/Projects_Ya/tree/main/credits_bank)|Цель - получение сведений для разработки модели кредитного скоринга.|_pandas_
